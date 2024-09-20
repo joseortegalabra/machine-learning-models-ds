@@ -41,3 +41,19 @@ __pycache__
 discovery/
 **/discovery/
 *discovery
+
+
+# files data
+.csv
+**/.csv
+*.csv
+
+# files models nixtla
+.p
+**/.p
+*.p
+
+# files data
+.zip
+**/.zip
+*.zip
