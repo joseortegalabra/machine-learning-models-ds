@@ -4,12 +4,6 @@
 *.env
 
 
-# Licence Gurobi
-gurobi.lic
-**/gurobi.lic
-*gurobi.lic
-
-
 # pkl data and artifact models
 .pkl
 **/.pkl
@@ -43,3 +37,7 @@ __pycache__
 *__pycache__
 
 
+# discovery folder
+discovery/
+**/discovery/
+*discovery
