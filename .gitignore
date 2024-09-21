@@ -53,7 +53,12 @@ discovery/
 **/.p
 *.p
 
-# files data
+# files data nixtla
 .zip
 **/.zip
 *.zip
+
+# file model skforecast
+.joblib
+**/.joblib
+*.joblib
