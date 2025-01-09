@@ -1,5 +1,6 @@
-# Identify-Data-Drift
- Repo with differents machine learning models
+# TEST DIFERENTS MODELS - EASY IMPLEMENTATION
+Repo with diferents codes, to train different kind of models. **THE MAIN IDEA, IS HAVE ONE UNIQUE REPO WITH SIMPLE IMPLEMENTATIONS OF MODELS**. So, when you want to implement a model in a proyect, you can see this code and in a easy way understant the model/code an implement in a more complex pipeline in a project.
+
 
 ## INCOMPLETE - WORK IN PROGESS
 
